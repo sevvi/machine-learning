@@ -4,7 +4,7 @@ This git repository showcases the list of machine learning tools, algorithms and
 
 * Deep learning
 * Bayesian learning
-** Variational inference
-** HMC
-** MCMC techniques
+ * Variational inference
+ * HMC
+ * MCMC techniques
 * Gaussian Processes and Bayesian optimization
