@@ -7,3 +7,7 @@ This git repository showcases the list of machine learning tools, algorithms and
   * HMC
   * MCMC techniques
 * Gaussian Processes and Bayesian optimization
+* Cloud computing platforms
+ * AWS
+ * Google cloud
+ 
